@@ -1,0 +1,18 @@
+:root {
+    /* --high: #ef5a69; */
+    --light: #B1B1B1;
+    --dark1: #0A0708;
+    --dark2: #444444;
+    /* --high2: #6200ff; */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background: linear-gradient(120deg, var(--dark2), var(--dark1));
+}

@@ -1,0 +1,6 @@
+{
+"amount":0,
+"categories":["transport", "food", "entertainment", "utilities"],
+"spendings": {"total_spent"= 0,
+	"14_9_2022_15_46_15": {"date":"14_9_2022", "time":"15_46_15", amount : "500", "category":"food"}}
+}
